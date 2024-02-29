@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="Dpad">
+    <file>Dpad.jpeg</file>
+  </qresource>
+  <qresource prefix="up">
+    <file>Up.jpeg</file>
+  </qresource>
+  <qresource prefix="left">
+    <file>Left.jpeg</file>
+  </qresource>
+  <qresource prefix="right">
+    <file>right.jpeg</file>
+  </qresource>
+  <qresource prefix="down">
+    <file>Down.jpeg</file>
+  </qresource>
+</RCC>
